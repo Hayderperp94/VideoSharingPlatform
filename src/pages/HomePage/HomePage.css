@@ -1,0 +1,14 @@
+/* src/pages/HomePage/HomePage.css */
+.home-page {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .home-content {
+    display: flex;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }

@@ -1,0 +1,15 @@
+/* src/components/Sidebar/Sidebar.css */
+.sidebar {
+    width: 200px;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+  }
+  
+  .sidebar-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar-item {
+    margin-bottom: 10px;
+  }

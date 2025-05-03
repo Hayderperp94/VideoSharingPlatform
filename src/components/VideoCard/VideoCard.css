@@ -1,0 +1,15 @@
+/* src/components/VideoCard/VideoCard.css */
+.video-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .video-thumbnail {
+    width: 100%;
+    display: block;
+  }
+  
+  .video-details {
+    padding: 10px;
+  }

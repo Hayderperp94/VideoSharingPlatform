@@ -1,0 +1,52 @@
+/* src/components/Header/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .youtube-logo {
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .header-center {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .search-button {
+    padding: 8px 12px;
+    background: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .create-button {
+    padding: 8px 12px;
+    background: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 5px;
+  }
+  
+  .profile-icon {
+    height: 30px;
+  }
